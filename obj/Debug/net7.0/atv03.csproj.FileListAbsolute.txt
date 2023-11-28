@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\atv03\bin\Debug\net7.0\atv03.exe
+C:\Users\Cliente\Desktop\atv03\bin\Debug\net7.0\atv03.deps.json
+C:\Users\Cliente\Desktop\atv03\bin\Debug\net7.0\atv03.runtimeconfig.json
+C:\Users\Cliente\Desktop\atv03\bin\Debug\net7.0\atv03.dll
+C:\Users\Cliente\Desktop\atv03\bin\Debug\net7.0\atv03.pdb
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.dll
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\refint\atv03.dll
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.pdb
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\atv03.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\atv03\obj\Debug\net7.0\ref\atv03.dll
